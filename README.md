@@ -1,5 +1,7 @@
 # -Improving-CNN-Performance-Using-Regularization
 
+# https://colab.research.google.com/drive/1N62Ih0KrWNsn4uNXV6zz1xstfK0Fhe5V?usp=sharing
+
 ## GUIDE QUESTIONS ANSWERS (Simple Explanation)
 # 1. Weakest-performing classes?
 
